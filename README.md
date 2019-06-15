@@ -1,1 +1,3 @@
-### jquery_to_do_list
+### jquery to do list
+
+- This is a simple to do list project. Uses jquery with html, css, js to implement the UI
